@@ -1,4 +1,4 @@
-module github.com/caddy-dns/powerdns
+module github.com/albonycal/powerdns
 
 go 1.16
 
